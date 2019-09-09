@@ -14,7 +14,7 @@ If you want to learn the basics of Zero-Shot Learning and understand how the fie
 
 ## Contributing
 
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/cbsudux/awesome-human-pose-estimation/pulls)
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/mboboGO/awesome-zero-shot-learning/pulls)
 
 Feedback and contributions are welcome!
 
