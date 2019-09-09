@@ -1,14 +1,16 @@
-# Awesome Human Pose Estimation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Zero-Shot Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
   <img src="diagram_2.png" width=700>
 </p>
 
-A collection of resources on Human Pose Estimation.
+A collection of resources on Zero-Shot Learning.
 
 ## Why awesome human pose estimation?
 
-This is a collection of papers and resources I curated when learning the ropes in Human Pose estimation. I will be continuously updating this list with the latest papers and resources. If you want to learn the basics of Human Pose Estimation and understand how the field has evolved, check out these articles I published on [2D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=github&utm_medium=social&utm_campaign=pose&utm_content=cbsudux) and [3D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-3d-guide/)
+This is a collection of papers and resources I curated when learning the ropes in Zero-Shot Learning. I will be continuously updating this list with the latest papers and resources. 
+/*If you want to learn the basics of Human Pose Estimation and understand how the field has evolved, check out these articles I published on [2D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=github&utm_medium=social&utm_campaign=pose&utm_content=cbsudux) and [3D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-3d-guide/)
+*/
 
 ## Contributing
 
