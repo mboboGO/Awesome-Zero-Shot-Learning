@@ -6,11 +6,11 @@
 
 A collection of resources on Zero-Shot Learning.
 
-## Why awesome human pose estimation?
-
+## Why awesome Zero-Shot Learning?
+Zero-Shot Learning targets to recognize samples from either seen or unseen classes, which can be applied to image classification, object detection, and semantic segmentation.
 This is a collection of papers and resources I curated when learning the ropes in Zero-Shot Learning. I will be continuously updating this list with the latest papers and resources. 
-/*If you want to learn the basics of Human Pose Estimation and understand how the field has evolved, check out these articles I published on [2D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=github&utm_medium=social&utm_campaign=pose&utm_content=cbsudux) and [3D Pose Estimation](https://blog.nanonets.com/human-pose-estimation-3d-guide/)
-*/
+If you want to learn the basics of Zero-Shot Learning and understand how the field has evolved, check out these articles I published on ...
+
 
 ## Contributing
 
@@ -21,12 +21,11 @@ Feedback and contributions are welcome!
 ## Table of Contents
 - [Basics](#basics)
 - [Papers](#papers)
-  - [2D Pose estimation](#2d-pose-estimation)
-  - [3D Pose estimation](#3d-pose-estimation)
-  - [Person generation](#person-generation)
-  - [Real-time Pose estimation](#real-time-pose-estimation)
-- [Datasets](#datasets)
-- [Workshops](#workshops) 
+  - [Emedding-based ZSL](#embedding-based-zsl)
+  - [Generative ZSL](#generative-zsl)
+  - [ZSL Detection](#zsl-detection)
+  - [ZSL Segmentation](#zsl-segmentation)
+- [Datasets](#datasets) 
 - [Blog posts](#blogposts)
 - [Popular implementations](#popular-implementations)
   - [PyTorch](#pytorch)
