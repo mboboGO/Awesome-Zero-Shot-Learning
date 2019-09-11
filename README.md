@@ -1,7 +1,7 @@
 # Awesome Zero-Shot Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-  <img src="zsk_diagram.png" width=700>
+  <img src="zsk_diagram.png" width=500>
 </p>
 
 A collection of resources on Zero-Shot Learning.
@@ -56,66 +56,39 @@ Feedback and contributions are welcome!
 
 
 ## Datasets
-### 2D
-- [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
-- [LSP](http://sam.johnson.io/research/lsp.html)
-- [FLIC](https://bensapp.github.io/flic-dataset.html)
-- [FLIC-plus](https://cims.nyu.edu/~tompson/flic_plus.htm)
-
-### 3D
-- [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
-- [HumanEva](http://humaneva.is.tue.mpg.de/)
-- [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
-- [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
-
-
-## Workshops
-- [POSETRACK-ECCV](https://posetrack.net/workshops/eccv2018/)
-- [3D HUMANS-CVPR 2018](https://project.inria.fr/humans2018/)
+### Classification
+- [CUB]
+- [SUN]
+- [AWA]
+- [AWA2]
+- [AWA2]
+- [aPY]
+- [flowers]
+### Segmentation
+- [VOC]
 
 
 ## Blog posts
-- [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
-- [Deep learning for human pose estimation](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
-- [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
+
 
 ## Popular implementations
 
-
 ### PyTorch
-- [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d)
-- [3d_pose_baseline_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch)
-- [pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
-- [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
-- [pytorch-pose](https://github.com/bearpaw/pytorch-pose)
-- [human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch)
-- [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+
 
 ### TensorFlow
 
-- [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
-- [pose-tensorflow](https://github.com/eldar/pose-tensorflow)
 
-### Torch
-
-- [pose-hg-train](https://github.com/umich-vl/pose-hg-train)
-- [pose-hg-demo](https://github.com/umich-vl/pose-hg-demo)
 
 ### Others
-
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-- [DensePose](https://github.com/facebookresearch/DensePose)
 
 ## Todo
 
 - [x] Add basics
-- [ ] Add papers on Person Re-Identification
-- [ ] Add papers on Multi Person Pose estimation
+- [ ] Add papers on Video Classification
+- [ ] Add papers on Video Segmentation
 - [ ] Add a SOTA ranking
 
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 
