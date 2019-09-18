@@ -52,7 +52,8 @@ Feedback and contributions are welcome!
 ### ZSL Segmentation
 - [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (arXiv19)
 
-
+### ZSL Detection
+- [Zero-Shot Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ankan_Bansal_Zero-Shot_Object_Detection_ECCV_2018_paper.pdf) - [[Proj]](http://ankan.umiacs.io/zsd.html) - Ankan Bansal, Karan Sikka, Gaurav Sharma, Rama Chellappa, and Ajay Divakaran. (ECCV 2018)
 
 
 ## Datasets
