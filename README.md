@@ -54,6 +54,8 @@ Feedback and contributions are welcome!
 - [Progressive Ensemble Networks for Zero-Shot Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Progressive_Ensemble_Networks_for_Zero-Shot_Recognition_CVPR_2019_paper.pdf) - Meng Ye and Yuhong Guo. (CVPR 2019)
 - [Leveraging the Invariant Side of Generative Zero-Shot Learning](https://arxiv.org/pdf/1904.04092.pdf) - Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. (CVPR 2019)
 - [Gradient Matching Generative Networks for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Mert Bulent Sariyildiz and Ramazan Gokberk Cinbis. (CVPR 2019)
+- [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING ] - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
+- [Learning where to look: Semantic-Guided Multi-Attention Localization for Zero-Shot Learning ] - Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng and Ahmed Elgammal. (ICCV 2019)
 
 ### ZSL Segmentation
 - [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (arXiv19)
