@@ -40,6 +40,7 @@ Feedback and contributions are welcome!
 ## Papers
 
 ### Embedding-based ZSL
+- [An Empirical Study and Analysis of Generalized Zero-Shot Learning for Object Recognition in the Wild](http://www-scf.usc.edu/~schangpi/papers/eccv16_gzsl.pdf) - Wei-Lun Chao, Soravit Changpinyo, Boqing Gong, and Fei Sha. (ECCV 2018)
 - [Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Bin Tong, Chao Wang, Martin Klinkigt, Yoshiyuki Kobayashi, Yuuichi Nonaka. (CVPR 2019)
 - [Semantically Aligned Bias Reducing Zero Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Paul_Semantically_Aligned_Bias_Reducing_Zero_Shot_Learning_CVPR_2019_paper.pdf) - Akanksha Paul, Naraynan C Krishnan, Prateek Munjal. (CVPR 2019)
 - [Creativity Inspired Zero-Shot Learning] (https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
@@ -48,9 +49,11 @@ Feedback and contributions are welcome!
 - [Marginalized Latent Semantic Encoder for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Marginalized_Latent_Semantic_Encoder_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Zhengming Ding and Hongfu Liu. (CVPR 2019)
 - [Progressive Ensemble Networks for Zero-Shot Recognition](https://arxiv.org/pdf/1805.07473.pdf) - Meng Ye, Yuhong Guo. (Tranductive Learning) (CVPR 2019)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://arxiv.org/pdf/1805.11724.pdf) - [[CODE]](https://github.com/cyvius96/adgpm)  - Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, and Eric P. Xing. (CVPR 2019)
+- [Adaptive Confidence Smoothing for Generalized Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Atzmon_Adaptive_Confidence_Smoothing_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf) - [[CODE]](http://chechiklab.biu.ac.il/~yuvval/COSMO/) - Yuval Atzmon, Gal Chechik. (CVPR 2019)
 
 ### ZSL Segmentation
-- [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (arXiv19)
+- [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) - Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (arXiv19)
+- [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He1, Bernt Schiele1, Zeynep Akata1. (CVPR 2019)
 
 
 
