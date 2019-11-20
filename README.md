@@ -1,7 +1,7 @@
 # Awesome Zero-Shot Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-  <img src="diagram_2.png" width=700>
+  <img src="zsk_diagram.png" width=500>
 </p>
 
 A collection of resources on Zero-Shot Learning.
@@ -34,13 +34,12 @@ Feedback and contributions are welcome!
   - [Others](#others)
 
 ## Basics
-- [A 2019 guide to Human Pose Estimation with Deep Learning](https://blog.nanonets.com/human-pose-estimation-2d-guide/?utm_source=reddit&utm_medium=social&utm_campaign=pose&utm_content=GROUP_NAME)
+- [A 2019 guide to Human Pose Estimation with Deep Learning]
 
 
 ## Papers
 
 ### Embedding-based ZSL
-- [An Empirical Study and Analysis of Generalized Zero-Shot Learning for Object Recognition in the Wild](http://www-scf.usc.edu/~schangpi/papers/eccv16_gzsl.pdf) - Wei-Lun Chao, Soravit Changpinyo, Boqing Gong, and Fei Sha. (ECCV 2018)
 - [Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Bin Tong, Chao Wang, Martin Klinkigt, Yoshiyuki Kobayashi, Yuuichi Nonaka. (CVPR 2019)
 - [Semantically Aligned Bias Reducing Zero Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Paul_Semantically_Aligned_Bias_Reducing_Zero_Shot_Learning_CVPR_2019_paper.pdf) - Akanksha Paul, Naraynan C Krishnan, Prateek Munjal. (CVPR 2019)
 - [Creativity Inspired Zero-Shot Learning] (https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
@@ -49,76 +48,61 @@ Feedback and contributions are welcome!
 - [Marginalized Latent Semantic Encoder for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Marginalized_Latent_Semantic_Encoder_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Zhengming Ding and Hongfu Liu. (CVPR 2019)
 - [Progressive Ensemble Networks for Zero-Shot Recognition](https://arxiv.org/pdf/1805.07473.pdf) - Meng Ye, Yuhong Guo. (Tranductive Learning) (CVPR 2019)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://arxiv.org/pdf/1805.11724.pdf) - [[CODE]](https://github.com/cyvius96/adgpm)  - Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, and Eric P. Xing. (CVPR 2019)
-- [Adaptive Confidence Smoothing for Generalized Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Atzmon_Adaptive_Confidence_Smoothing_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf) - [[CODE]](http://chechiklab.biu.ac.il/~yuvval/COSMO/) - Yuval Atzmon, Gal Chechik. (CVPR 2019)
+- [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
+- [Generative Dual Adversarial Network for Generalized Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf) - [[CODE]](https://github.com/stevehuanghe/GDAN) - He Huang, Changhu Wang, Philip S. Yu Chang-Dong Wang. (CVPR 2019)
+- [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kampffmeyer_Rethinking_Knowledge_Graph_Propagation_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - [[CODE]](https://github.com/cyvius96/DGP) - Michael Kampffmeyer, Yinbo Chen, Xiaodan Liangy, Hao Wang, Yujia Zhang, and Eric P. Xing. (CVPR 2019)
+- [Progressive Ensemble Networks for Zero-Shot Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Progressive_Ensemble_Networks_for_Zero-Shot_Recognition_CVPR_2019_paper.pdf) - Meng Ye and Yuhong Guo. (CVPR 2019)
+- [Leveraging the Invariant Side of Generative Zero-Shot Learning](https://arxiv.org/pdf/1904.04092.pdf) - Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. (CVPR 2019)
+- [Gradient Matching Generative Networks for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Mert Bulent Sariyildiz and Ramazan Gokberk Cinbis. (CVPR 2019)
+- [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
+- [Learning where to look: Semantic-Guided Multi-Attention Localization for Zero-Shot Learning](https://arxiv.org/pdf/1903.00502.pdf) - Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng and Ahmed Elgammal. (ICCV 2019)
 
 ### ZSL Segmentation
-- [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) - Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (arXiv19)
-- [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He1, Bernt Schiele1, Zeynep Akata1. (CVPR 2019)
+- [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He, Bernt Schiele, and Zeynep Akata. (CVPR 2019)
+- [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (NeurIPS 19)
 
-
-
+### ZSL Detection
+- [Zero-Shot Object Detection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ankan_Bansal_Zero-Shot_Object_Detection_ECCV_2018_paper.pdf) - [[Proj]](http://ankan.umiacs.io/zsd.html) - Ankan Bansal, Karan Sikka, Gaurav Sharma, Rama Chellappa, and Ajay Divakaran. (ECCV 2018)
+- [Transductive Learning for Zero-Shot Object Detection](https://salman-h-khan.github.io/papers/ICCV19-2.pdf) - Shafin Rahman, Salman Khan and Nick Barnes. (ICCV 2019)
 
 ## Datasets
-### 2D
-- [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
-- [LSP](http://sam.johnson.io/research/lsp.html)
-- [FLIC](https://bensapp.github.io/flic-dataset.html)
-- [FLIC-plus](https://cims.nyu.edu/~tompson/flic_plus.htm)
-
-### 3D
-- [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
-- [HumanEva](http://humaneva.is.tue.mpg.de/)
-- [MPI-INF-3DHP](http://gvv.mpi-inf.mpg.de/3dhp-dataset/)
-- [Unite The People](http://files.is.tuebingen.mpg.de/classner/up/)
-
-
-## Workshops
-- [POSETRACK-ECCV](https://posetrack.net/workshops/eccv2018/)
-- [3D HUMANS-CVPR 2018](https://project.inria.fr/humans2018/)
+### Classification
+- [CUB]
+- [SUN]
+- [AWA]
+- [AWA2]
+- [AWA2]
+- [aPY]
+- [flowers]
+### Segmentation
+- [Pascal VOC]
+ 
+### Segmentation
+- [MSCOCO]
+- [Pascal VOC]
 
 
 ## Blog posts
-- [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
-- [Deep learning for human pose estimation](https://www.slideshare.net/plutoyang/mmlab-seminar-2016-deep-learning-for-human-pose-estimation)
-- [Deep Learning based Human Pose Estimation using OpenCV ( C++ / Python )](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
+
 
 ## Popular implementations
 
-
 ### PyTorch
-- [pytorch-pose-hg-3d](https://github.com/xingyizhou/Pytorch-pose-hg-3d)
-- [3d_pose_baseline_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch)
-- [pytorch_Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
-- [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
-- [pytorch-pose](https://github.com/bearpaw/pytorch-pose)
-- [human-pose-estimation.pytorch](https://github.com/Microsoft/human-pose-estimation.pytorch)
-- [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+
 
 ### TensorFlow
 
-- [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
-- [pose-tensorflow](https://github.com/eldar/pose-tensorflow)
 
-### Torch
-
-- [pose-hg-train](https://github.com/umich-vl/pose-hg-train)
-- [pose-hg-demo](https://github.com/umich-vl/pose-hg-demo)
 
 ### Others
-
-- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-- [DensePose](https://github.com/facebookresearch/DensePose)
 
 ## Todo
 
 - [x] Add basics
-- [ ] Add papers on Person Re-Identification
-- [ ] Add papers on Multi Person Pose estimation
+- [ ] Add papers on Video Classification
+- [ ] Add papers on Video Segmentation
 - [ ] Add a SOTA ranking
 
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 
