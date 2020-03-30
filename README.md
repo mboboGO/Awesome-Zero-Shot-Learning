@@ -34,31 +34,38 @@ Feedback and contributions are welcome!
   - [Others](#others)
 
 ## Basics
-- [A 2019 guide to Human Pose Estimation with Deep Learning]
+- [A guide to Zero-Shot Learning]
 
 
 ## Papers
 
 ### Embedding-based ZSL
+#### CVPR2019
 - [Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Bin Tong, Chao Wang, Martin Klinkigt, Yoshiyuki Kobayashi, Yuuichi Nonaka. (CVPR 2019)
 - [Semantically Aligned Bias Reducing Zero Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Paul_Semantically_Aligned_Bias_Reducing_Zero_Shot_Learning_CVPR_2019_paper.pdf) - Akanksha Paul, Naraynan C Krishnan, Prateek Munjal. (CVPR 2019)
-- [Creativity Inspired Zero-Shot Learning] (https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
 - [Generalized Zero-Shot Recognition based on Visually Semantic Embedding](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Generalized_Zero-Shot_Recognition_Based_on_Visually_Semantic_Embedding_CVPR_2019_paper.pdf) - Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama. (CVPR 2019)
 - [Attentive Region Embedding Network for Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao. (CVPR 2019)
 - [Marginalized Latent Semantic Encoder for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Marginalized_Latent_Semantic_Encoder_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Zhengming Ding and Hongfu Liu. (CVPR 2019)
 - [Progressive Ensemble Networks for Zero-Shot Recognition](https://arxiv.org/pdf/1805.07473.pdf) - Meng Ye, Yuhong Guo. (Tranductive Learning) (CVPR 2019)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](https://arxiv.org/pdf/1805.11724.pdf) - [[CODE]](https://github.com/cyvius96/adgpm)  - Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, and Eric P. Xing. (CVPR 2019)
-- [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
 - [Generative Dual Adversarial Network for Generalized Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf) - [[CODE]](https://github.com/stevehuanghe/GDAN) - He Huang, Changhu Wang, Philip S. Yu Chang-Dong Wang. (CVPR 2019)
 - [Rethinking Knowledge Graph Propagation for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kampffmeyer_Rethinking_Knowledge_Graph_Propagation_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - [[CODE]](https://github.com/cyvius96/DGP) - Michael Kampffmeyer, Yinbo Chen, Xiaodan Liangy, Hao Wang, Yujia Zhang, and Eric P. Xing. (CVPR 2019)
 - [Progressive Ensemble Networks for Zero-Shot Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ye_Progressive_Ensemble_Networks_for_Zero-Shot_Recognition_CVPR_2019_paper.pdf) - Meng Ye and Yuhong Guo. (CVPR 2019)
 - [Leveraging the Invariant Side of Generative Zero-Shot Learning](https://arxiv.org/pdf/1904.04092.pdf) - Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. (CVPR 2019)
 - [Gradient Matching Generative Networks for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Mert Bulent Sariyildiz and Ramazan Gokberk Cinbis. (CVPR 2019)
-- [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
-- [Learning where to look: Semantic-Guided Multi-Attention Localization for Zero-Shot Learning](https://arxiv.org/pdf/1903.00502.pdf) - Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng and Ahmed Elgammal. (ICCV 2019)
+#### ICCV2019
+- [Creativity Inspired Zero-Shot Learning] (https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
+- [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
+- [Learning where to look: Semantic-Guided Multi-Attention Localization for Zero-Shot Learning](https://arxiv.org/pdf/1903.00502.pdf) - [[CODE]](https://github.com/raywzy/VSC) - Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng and Ahmed Elgammal. (ICCV 2019)
+#### NeuIPS2019
+- [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019) - Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. 
+- [Transductive Zero-Shot Learning with Visual Structure Constraint ](https://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint)
+#### CVPR2020
 
 ### ZSL Segmentation
+#### CVPR2019
 - [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He, Bernt Schiele, and Zeynep Akata. (CVPR 2019)
+#### NeuIPS2019
 - [Zero-Shot Semantic Segmentation](https://arxiv.org/abs/1906.00817) -- [[CODE]](https://github.com/RohanDoshi2018/ZeroshotSemanticSegmentation) Maxime Bucher, Tuan-Hung Vu, Matthieu Cord, Patrick Pérez. (NeurIPS 19)
 
 ### ZSL Detection
