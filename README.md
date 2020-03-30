@@ -33,10 +33,6 @@ Feedback and contributions are welcome!
   - [Torch](#Torch)
   - [Others](#others)
 
-## Basics
-- [A guide to Zero-Shot Learning]
-
-
 ## Papers
 
 ### Embedding-based ZSL
@@ -54,12 +50,11 @@ Feedback and contributions are welcome!
 - [Leveraging the Invariant Side of Generative Zero-Shot Learning](https://arxiv.org/pdf/1904.04092.pdf) - Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. (CVPR 2019)
 - [Gradient Matching Generative Networks for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Mert Bulent Sariyildiz and Ramazan Gokberk Cinbis. (CVPR 2019)
 #### ICCV2019
-- [Creativity Inspired Zero-Shot Learning] (https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
 - [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
 - [Learning where to look: Semantic-Guided Multi-Attention Localization for Zero-Shot Learning](https://arxiv.org/pdf/1903.00502.pdf) - [[CODE]](https://github.com/raywzy/VSC) - Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng and Ahmed Elgammal. (ICCV 2019)
 #### NeuIPS2019
-- [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019) - Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. 
-- [Transductive Zero-Shot Learning with Visual Structure Constraint ](https://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint)
+- [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
+- [Transductive Zero-Shot Learning with Visual Structure Constraint ](https://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint) - [[CODE]](https://github.com/raywzy/VSC)- Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. 
 #### CVPR2020
 
 ### ZSL Segmentation
