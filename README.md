@@ -52,6 +52,7 @@ Feedback and contributions are welcome!
 #### ICCV2019
 - [Creativity Inspired Zero-Shot Learning](https://arxiv.org/pdf/1904.01109.pdf) - Mohamed Elhoseiny, Mohamed Elfeki. (ICCV 2019)
 - [Learning where to look: Semantic-Guided Multi-Attention Localization for Zero-Shot Learning](https://arxiv.org/pdf/1903.00502.pdf) - [[CODE]](https://github.com/raywzy/VSC) - Yizhe Zhu, Jianwen Xie, Zhiqiang Tang, Xi Peng and Ahmed Elgammal. (ICCV 2019)
+- [Attribute Attention for Semantic Disambiguation in Zero-Shot Learning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Attribute_Attention_for_Semantic_Disambiguation_in_Zero-Shot_Learning_ICCV_2019_paper.pdf) - [[CODE]](https://github.com/ZJULearning/AttentionZSL) - Yang Liu, Jishun Guo, Deng Cai, Xiaofei He. (ICCV 2019)
 #### NeuIPS2019
 - [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
 - [Transductive Zero-Shot Learning with Visual Structure Constraint ](https://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint) - [[CODE]](https://github.com/raywzy/VSC)- Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. 
@@ -78,7 +79,7 @@ Feedback and contributions are welcome!
 - [flowers]
 ### Segmentation
 - [Pascal VOC]
- 
+
 ### Segmentation
 - [MSCOCO]
 - [Pascal VOC]
