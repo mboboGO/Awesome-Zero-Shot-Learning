@@ -36,7 +36,19 @@ Feedback and contributions are welcome!
 ## Papers
 
 ### Embedding-based ZSL
+#### CVPR2020
+
+- [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Min_Domain-Aware_Visual_Bias_Eliminating_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/mboboGO/DVBE)- Shaobo Min, Hantao Yao, Hongtao Xie, Chaoqun Wang, Zheng-Jun Zha, Yongdong Zhang. (CVPR 2020)
+- [Hyperbolic Visual Embedding Learning for Zero-Shot Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)- Shaoteng Liu, Jingjing Chen, Liangming Pan, Chong-Wah Ngo, Tat-Seng Chua, Yu-Gang Jiang. (CVPR 2020)
+- [Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf) - Dat Huynh, Ehsan Elhamifar. (CVPR 2020)
+- [A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf) - Dat Huynh, Ehsan Elhamifar. (CVPR 2020)
+- [Learning the Redundancy-Free Features for Generalized Zero-Shot Object Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Learning_the_Redundancy-Free_Features_for_Generalized_Zero-Shot_Object_Recognition_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/Hanzy1996/RRF-GZSL)- Zongyan Han, Zhenyong Fu, Jian Yang. (CVPR 2020)
+- [Self-supervised Domain-aware Generative Network for Generalized Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Self-Supervised_Domain-Aware_Generative_Network_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) - Jiamin Wu, Tianzhu Zhang, Zheng-Jun Zha, Jiebo Luo, Yongdong Zhang, Feng Wu. (CVPR 2020)
+- [Episode-based Prototype Generating Network for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Episode-Based_Prototype_Generating_Network_for_Zero-Shot_Learning_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/yunlongyu/EPGN)- Yunlong Yu, Zhong Ji, Jungong Han, Zhongfei Zhang. (CVPR 2020)
+- [Generalized Zero-Shot Learning via Over-Complete Distribution](http://openaccess.thecvf.com/content_CVPR_2020/papers/Keshari_Generalized_Zero-Shot_Learning_via_Over-Complete_Distribution_CVPR_2020_paper.pdf) - Rohit Keshari, Richa Singh, Mayank Vatsa. (CVPR 2020)
+
 #### CVPR2019
+
 - [Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) - Bin Tong, Chao Wang, Martin Klinkigt, Yoshiyuki Kobayashi, Yuuichi Nonaka. (CVPR 2019)
 - [Semantically Aligned Bias Reducing Zero Shot Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Paul_Semantically_Aligned_Bias_Reducing_Zero_Shot_Learning_CVPR_2019_paper.pdf) - Akanksha Paul, Naraynan C Krishnan, Prateek Munjal. (CVPR 2019)
 - [Generalized Zero-Shot Recognition based on Visually Semantic Embedding](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Generalized_Zero-Shot_Recognition_Based_on_Visually_Semantic_Embedding_CVPR_2019_paper.pdf) - Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama. (CVPR 2019)
@@ -56,17 +68,6 @@ Feedback and contributions are welcome!
 #### NeuIPS2019
 - [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
 - [Transductive Zero-Shot Learning with Visual Structure Constraint ](https://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint) - [[CODE]](https://github.com/raywzy/VSC)- Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. 
-#### CVPR2020
-
-- [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Min_Domain-Aware_Visual_Bias_Eliminating_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/mboboGO/DVBE)- Shaobo Min, Hantao Yao, Hongtao Xie, Chaoqun Wang, Zheng-Jun Zha, Yongdong Zhang. (CVPR 2020)
-- [Hyperbolic Visual Embedding Learning for Zero-Shot Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/ShaoTengLiu/Hyperbolic_ZSL)- Shaoteng Liu, Jingjing Chen, Liangming Pan, Chong-Wah Ngo, Tat-Seng Chua, Yu-Gang Jiang. (CVPR 2020)
-- [Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf) - Dat Huynh, Ehsan Elhamifar. (CVPR 2020)
-- [A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf) - Dat Huynh, Ehsan Elhamifar. (CVPR 2020)
-- [Learning the Redundancy-Free Features for Generalized Zero-Shot Object Recognition](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Learning_the_Redundancy-Free_Features_for_Generalized_Zero-Shot_Object_Recognition_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/Hanzy1996/RRF-GZSL)- Zongyan Han, Zhenyong Fu, Jian Yang. (CVPR 2020)
-- [Self-supervised Domain-aware Generative Network for Generalized Zero-shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Self-Supervised_Domain-Aware_Generative_Network_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) - Jiamin Wu, Tianzhu Zhang, Zheng-Jun Zha, Jiebo Luo, Yongdong Zhang, Feng Wu. (CVPR 2020)
-- [Episode-based Prototype Generating Network for Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Episode-Based_Prototype_Generating_Network_for_Zero-Shot_Learning_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/yunlongyu/EPGN)- Yunlong Yu, Zhong Ji, Jungong Han, Zhongfei Zhang. (CVPR 2020)
-- [Generalized Zero-Shot Learning via Over-Complete Distribution](http://openaccess.thecvf.com/content_CVPR_2020/papers/Keshari_Generalized_Zero-Shot_Learning_via_Over-Complete_Distribution_CVPR_2020_paper.pdf) - Rohit Keshari, Richa Singh, Mayank Vatsa. (CVPR 2020)
-
 ### ZSL Segmentation
 #### CVPR2019
 - [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He, Bernt Schiele, and Zeynep Akata. (CVPR 2019)
