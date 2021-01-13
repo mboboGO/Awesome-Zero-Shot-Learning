@@ -36,6 +36,14 @@ Feedback and contributions are welcome!
 ## Papers
 
 ### Embedding-based ZSL
+
+#### ECCV2020
+
+* [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf) - [[CODE]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning)- Xingyu Chen, Xuguang Lan, Fuchun Sun, Nanning Zheng. (ECCV 2020)
+* [Leveraging Seen and Unseen Semantic Relationships for Generative Zero-shot Learning](https://arxiv.org/pdf/2007.09549.pdf) - Maunil R Vyas, Hemanth Venkateswara, Sethuraman Panchanathan. (ECCV 2020)
+* [Latent Embedding Feedback and Discriminative Features for Zero-shot Classification](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670477.pdf) - [[CODE]](https://github.com/akshitac8/tfvaegan)- Sanath Narayan, Akshita Gupta, Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. (ECCV 2020)
+* [Region Graph Embedding Network for Zero-shot Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490545.pdf) - Guo-Sen Xie, Li Liu, Fan Zhu, Fang Zhao, Zheng Zhang, Yazhou Yao, Jie Qin, Ling Shao. (ECCV 2020)
+
 #### CVPR2020
 
 - [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Min_Domain-Aware_Visual_Bias_Eliminating_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf) - [[CODE]](https://github.com/mboboGO/DVBE)- Shaobo Min, Hantao Yao, Hongtao Xie, Chaoqun Wang, Zheng-Jun Zha, Yongdong Zhang. (CVPR 2020)
