@@ -37,6 +37,11 @@ Feedback and contributions are welcome!
 
 ### Embedding-based ZSL
 
+#### NeuIPS2020
+
+* [Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition](https://khoury.neu.edu/home/eelhami/publications/neurips20_CompositionZSL.pdf) - [[CODE]](https://github.com/hbdat/neurIPS20_CompositionZSL)- D.~Huynh and E.~Elhamifar. (NeurIPS 2020)
+* [Attribute Prototype Network for Zero-Shot Learning](https://papers.nips.cc/paper/2020/file/fa2431bf9d65058fe34e9713e32d60e6-Paper.pdf) - [[CODE]](https://github.com/wenjiaXu/APN-ZSL)- Wenjia Xu, Yongqin Xian, Jiuniu Wang, Bernt Schiele, Zeynep Akata. (NeurIPS 2020)
+
 #### ECCV2020
 
 * [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf) - [[CODE]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning)- Xingyu Chen, Xuguang Lan, Fuchun Sun, Nanning Zheng. (ECCV 2020)
