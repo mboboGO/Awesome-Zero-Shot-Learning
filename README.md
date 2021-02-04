@@ -81,7 +81,11 @@ Feedback and contributions are welcome!
 #### NeuIPS2019
 - [DUAL ADVERSARIAL SEMANTICS-CONSISTENT NETWORK FOR GENERALIZED ZERO-SHOT LEARNING](https://arxiv.org/pdf/1907.05570.pdf) - Jian Ni, hanghang Zhang, Haiyong Xie. (NeurIPS 2019)
 - [Transductive Zero-Shot Learning with Visual Structure Constraint ](https://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint) - [[CODE]](https://github.com/raywzy/VSC)- Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. 
+
+
 ### ZSL Segmentation
+#### NeuIPS2020
+- [Consistent Structural Relation Learning for Generalized Zero-Shot Segmentation](https://arxiv.org/pdf/2009.12232.pdf) 
 #### CVPR2019
 - [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He, Bernt Schiele, and Zeynep Akata. (CVPR 2019)
 #### NeuIPS2019
