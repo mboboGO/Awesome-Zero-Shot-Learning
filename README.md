@@ -86,6 +86,8 @@ Feedback and contributions are welcome!
 ### ZSL Segmentation
 #### NeuIPS2020
 - [Consistent Structural Relation Learning for Generalized Zero-Shot Segmentation](https://arxiv.org/pdf/2009.12232.pdf) 
+#### MM2020
+- [Context-aware Feature Generation for Zero-shot Semantic Segmentation](https://arxiv.org/pdf/2008.06893.pdf)
 #### CVPR2019
 - [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf) - Yongqin Xian, Subhabrata Choudhury, Yang He, Bernt Schiele, and Zeynep Akata. (CVPR 2019)
 #### NeuIPS2019
